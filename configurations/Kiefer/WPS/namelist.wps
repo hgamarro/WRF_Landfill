@@ -23,7 +23,7 @@
  truelat1          =  38.5150
  truelat2          =  38.5150,
  stand_lon         = -121.1921,
- geog_data_path    = '/global/scratch/users/melius/WPS_landfill/',
+ geog_data_path    = '/global/home/users/hgamarro/scratch/WPS_GEOG/',
 /
 
 &ungrib

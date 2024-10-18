@@ -85,7 +85,7 @@ name=LANDUSEF
         rel_path =     usgs_5m:landuse_5m/
         rel_path =    usgs_10m:landuse_10m/
         rel_path =     default:modis_landuse_21class_30s/
-	rel_path =    high_res_landfill:landcover_30m_NLCDtoNLCD/
+	rel_path =    high_res_landfill:modis_landuse_20class_15s/
 ===============================
 name=SOILTEMP
         priority=1
