@@ -34,6 +34,9 @@ module load cmake
 /global/scratch/users/kwyang0331/Chemtracer/afterOSupdate/WRFchem/test/em_real
 /global/scratch/users/kwyang0331/Chemtracer/afterOSupdate/WPS/
 
+## Path to Compiled Adam's WRFv4.4-DRM_GAD
+/global/scratch/users/kwyang0331/Chemtracer/afterOSupdate/Adams/WRFv4.4-DRM_GAD
+
 ```
 
 
