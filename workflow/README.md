@@ -40,3 +40,18 @@ module load cmake
 ```
 
 
+## Adam's path of working WRF DRM for reference
+
+```
+## Perdigao:
+/global/scratch/users/adamwise/WRF-GAD/perdigao/big_domains/PBL-PBL-PBL-DRM-DRM/
+/global/scratch/users/adamwise/WRF-GAD/perdigao/big_domains/PBL-PBL-PBL-TKE-TKE/
+
+## Oklahoma/AWAKEN:
+/global/scratch/users/adamwise/WRF-GAD/KingPlainsPECAN/HRRR/06062023/final_d01
+/global/scratch/users/adamwise/WRF-GAD/KingPlainsPECAN/HRRR/06062023/WTs/300m_shifted_20m_tke/
+/global/scratch/users/adamwise/WRF-GAD/KingPlainsPECAN/HRRR/06062023/WTs/300m_shifted_20m_dwl/
+/global/scratch/users/adamwise/WRF-GAD/KingPlainsPECAN/HRRR/06062023/WTs_final/drm/
+
+```
+
