@@ -55,5 +55,8 @@ module load cmake
 
 ## Useful links
 https://awaken-benchmark.readthedocs.io/en/latest/phase1.html
+
+## Usedule commands
+ls -I "rsl*" -I "wrfrst*"
 ```
 
