@@ -53,5 +53,7 @@ module load cmake
 /global/scratch/users/adamwise/WRF-GAD/KingPlainsPECAN/HRRR/06062023/WTs/300m_shifted_20m_dwl/
 /global/scratch/users/adamwise/WRF-GAD/KingPlainsPECAN/HRRR/06062023/WTs_final/drm/
 
+## Useful links
+https://awaken-benchmark.readthedocs.io/en/latest/phase1.html
 ```
 
